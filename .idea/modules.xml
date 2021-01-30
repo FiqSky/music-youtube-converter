@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/music-youtube-converter.iml" filepath="$PROJECT_DIR$/music-youtube-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video-youtube-converter.iml" filepath="$PROJECT_DIR$/video-youtube-converter.iml" />
     </modules>
   </component>
 </project>
